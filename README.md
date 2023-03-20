@@ -21,20 +21,22 @@
 
 <h3>My stack:</h3>
 
-<img src="https://skillicons.dev/icons?i=js,html,css,ts,jquery,vue,react,redux,nodejs,express,postgres,aws,jest,ps,linux" alt="aws"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=js,html,css,jquery,vue,react,redux,nodejs,express,postgres,aws,jest,linux" alt="aws"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 
--   JavaScript, HTML, CSS, TypeScript, jQuery, Vue, React, Redux, Node, Express, PostgreSQL, AWS, Jest, Photoshop, Linux
+-   JavaScript, HTML, CSS, jQuery, Vue, React, Redux, Node, Express, PostgreSQL, AWS, Jest, Linux
   
 <h3>Currently learning:</h3>
 
-<img src="https://skillicons.dev/icons?i=nextjs,firebase,regex,java,py" alt="aws"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=ts,nextjs,mongodb" alt="aws"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 
--   Next, Firebase, Regex, Java, Python
+-   TypeScript, Next, MongoDB
 
+##
+  
 <h3>Connect with me:</h3>
   
 <p align="left">
-<a href="https://linkedin.com/in/lennardgrossmann" target="_blank" rel="noopener noreferrer"><img align="center" src="linkedin.com/in/lennardgrossmann" alt="lennardmg" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/lennardgrossmann" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lennardmg" height="40" width="50" /></a>
   
 <!-- <a href="https://www.codewars.com/users/reiggrau" target="_blank" rel="noopener noreferrer"><img align="center" src="https://user-images.githubusercontent.com/85371429/217860756-2055b324-dd73-4f4a-97d2-f479c1be9c36.svg" alt="guillem-reig" height="40" width="40" /></a>
    -->
