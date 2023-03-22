@@ -38,13 +38,13 @@
 <p align="left">
 <a href="https://linkedin.com/in/lennardgrossmann" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lennardmg" height="40" width="50" /></a>
   
-<!-- <a href="https://www.codewars.com/users/reiggrau" target="_blank" rel="noopener noreferrer"><img align="center" src="https://user-images.githubusercontent.com/85371429/217860756-2055b324-dd73-4f4a-97d2-f479c1be9c36.svg" alt="guillem-reig" height="40" width="40" /></a>
-   -->
+<a href="https://www.codewars.com/users/lennardmg/badges/large" target="_blank" rel="noopener noreferrer"><img align="center" src="https://user-images.githubusercontent.com/85371429/217860756-2055b324-dd73-4f4a-97d2-f479c1be9c36.svg" alt="lennardmg" height="40" width="40" /></a>
+  
 </p>
   
-<!--   
-<img src="https://www.codewars.com/users/reiggrau/badges/small" alt="/"/>
- -->
+  
+<img src="https://www.codewars.com/users/lennardmg/badges/large" alt="/"/>
+
   
 ##
   
