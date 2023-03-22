@@ -38,7 +38,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/lennardgrossmann" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lennardmg" height="40" width="50" /></a>
   
-<a href="https://www.codewars.com/users/lennardmg" target="_blank" rel="noopener noreferrer"><img align="center" src="https://www.codewars.com/users/lennardmg/badges/large" alt="lennardmg" height="40" width="40" /></a>
+<a href="https://www.codewars.com/users/lennardmg" target="_blank" rel="noopener noreferrer"><img align="center" src="https://www.codewars.com/users/lennardmg/badges/large" alt="lennardmg" /></a>
   
 </p>
 
