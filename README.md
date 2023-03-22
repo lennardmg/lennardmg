@@ -44,8 +44,8 @@
 
 ##
   
-<!-- <div width=100%>
-<img align="left" height=170px src="https://github-readme-streak-stats.herokuapp.com/?user=reiggrau&" alt="reiggrau" />
-<img align="left" height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="reiggrau" />
+<div width=100%>
+<img align="left" height=170px src="https://github-readme-streak-stats.herokuapp.com/?user=lennardmg&" alt="lennardmg" />
+<img align="left" height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennardmg&layout=compact" alt="lennardmg" />
 </div>
- -->
+
