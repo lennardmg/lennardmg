@@ -1,11 +1,11 @@
-<h1 align="center"> Hello World! 👋, call me lennardmg </h1>
+<h1 align="center"> Hello World! 👋 call me lennardmg </h1>
 <h3 align="center"> Junior Full-Stack Web Developer to be </h3>
 
 <img width=100% src="https://images.unsplash.com/photo-1503252947848-7338d3f92f31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80"></img>
 
 <h3></h3>
 
-<h4>My full name is Lennard Großmann, and I'm a Full Stack Web Developer living in Berlin.</h4>
+<h4>My name is Lennard Großmann, and I'm a Full Stack Web Developer living in Berlin.</h4>
 <h4>I've liked computers and videogames since I was a child, and I've been the default 'IT guy' for family and friends for years.</h4>
 <h4>I like making clean, efficient and easy to understand code and challenge myself in Codewars every now and then.</h4>
 <h4>Before becoming a developer I was a General Manager in the tourism industry as well as a Regional Sales Manager in Retail.</h4>
