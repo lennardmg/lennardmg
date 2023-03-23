@@ -13,9 +13,9 @@
 <h4></h4>
 
 -   🔭 I’m currently working on **my Portfolio page** in my spare time
--   🌱 I’m currently learning **TypeScript, Next and Firebase**
+-   🌱 I’m currently learning **TypeScript, Next.js and MongoDB**
 -   💬 Ask me about **JavaScript, React.js and PostgreSQL**
--   📫 How to reach me **lennardmg@gmx.de**, or just send me a message on linkedin
+-   📫 Reach me via **lennardmg@gmx.de**, or just send me a message on LinkedIn
 
 ##
 
